@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Item 0</key>
+	<dict>
+		<key>birdName</key>
+		<string>Barn Swallow</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: Main predators of barn swallows are cats, hawks, gulls and grackles</string>
+		<key>song</key>
+		<string>BarnSwallow.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>BarnSwallow.png</string>
+	</dict>
+	<key>Item 1</key>
+	<dict>
+		<key>birdName</key>
+		<string>Barred Owl</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: The belly feathers of some Barred Owls are pink. This coloring may be the result of eating a lot of crayfish</string>
+		<key>song</key>
+		<string>Barred Owl.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>BarredOwl.png</string>
+	</dict>
+	<key>Item 2</key>
+	<dict>
+		<key>birdName</key>
+		<string>Bewick’s Wren</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: Hawks and owls are predators of adult house wrens. Cats, raccoons, squirrels, rats, possums and snakes eat eggs and young chicks.</string>
+		<key>song</key>
+		<string>BewicksWren.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>BewicksWren.mp3</string>
+	</dict>
+	<key>Item 3</key>
+	<dict>
+		<key>birdName</key>
+		<string>Brown Thrasher</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: An aggressive defender of its nest, the Brown Thrasher is known to strike people and dogs hard enough to draw blood.</string>
+		<key>song</key>
+		<string>BrownThrasher.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>BrownThrasher.png</string>
+	</dict>
+	<key>Item 4</key>
+	<dict>
+		<key>birdName</key>
+		<string>Carolina Chickadee</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: Young leave nest about 13-17 days after hatching.</string>
+		<key>song</key>
+		<string>CarolinaChickadee.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>CarolinaChickadee.png</string>
+	</dict>
+	<key>Item 5</key>
+	<dict>
+		<key>birdName</key>
+		<string>Cedar Waxing</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: The Cedar Waxwing is one of the few North American birds that specializes in eating fruit.</string>
+		<key>song</key>
+		<string>CedarWaxwing.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>CedarWaxing.png</string>
+	</dict>
+	<key>Item 6</key>
+	<dict>
+		<key>birdName</key>
+		<string>Dark-eyed Junco</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: A recent estimate set the junco&apos;s total population at approximately 630 million individuals!!</string>
+		<key>song</key>
+		<string>Dark-eyedJunco.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>Dark-eyedJunco.png</string>
+	</dict>
+	<key>Item 7</key>
+	<dict>
+		<key>birdName</key>
+		<string>Downy Woodpecker</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: Special feathers around their nostrils keep them from breathing in wood chips.</string>
+		<key>song</key>
+		<string>DownyWoodpecker.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>DownyWoodpecker.png</string>
+	</dict>
+	<key>Item 8</key>
+	<dict>
+		<key>birdName</key>
+		<string>Eared Grebe</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: The Eared Grebe migrates only at night.</string>
+		<key>song</key>
+		<string>EaredGrebe.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>EaredGrebe.png</string>
+	</dict>
+	<key>Item 9</key>
+	<dict>
+		<key>birdName</key>
+		<string>House Finch</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: Females prefer to mate with the reddest male they can find, perhaps increasing the probability of obtaining a capable mate who can do his part in feeding the nestlings.</string>
+		<key>song</key>
+		<string>HouseFinch.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>HouseFinch.png</string>
+	</dict>
+	<key>Item 10</key>
+	<dict>
+		<key>birdName</key>
+		<string>House Sparrow</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: On the ground, the house sparrow typically hops rather than walks.</string>
+		<key>song</key>
+		<string>HouseSparrow.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>HouseSparrow.png</string>
+	</dict>
+	<key>Item 11</key>
+	<dict>
+		<key>birdName</key>
+		<string>Mallard</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: The scientific name for the Mallard Duck is Anas Platyrhynchos.</string>
+		<key>song</key>
+		<string>Mallard.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>Mallard.png</string>
+	</dict>
+	<key>Item 12</key>
+	<dict>
+		<key>birdName</key>
+		<string>Mourning Dove</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: The cooooOOOOO-woo-woo-woo call is almost always uttered by the male bird, not the female, and is—wait for it—a wooing call, an enticement to a mate or potential mate.</string>
+		<key>song</key>
+		<string>MourningDove.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>MourningDove.png</string>
+	</dict>
+	<key>Item 13</key>
+	<dict>
+		<key>birdName</key>
+		<string>Northern Bobwhite</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: Northern bobwhites reach sexual maturity at the age of 1 year.</string>
+		<key>song</key>
+		<string>NorthernBobwhite.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>NorthernBobwhite.png</string>
+	</dict>
+	<key>Item 14</key>
+	<dict>
+		<key>birdName</key>
+		<string>Northern Cardinal</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: Unlike many other songbirds in North America, both the male and female cardinals can sing.</string>
+		<key>song</key>
+		<string>NorthernCardinal.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>NorthernCardinal.png</string>
+	</dict>
+	<key>Item 15</key>
+	<dict>
+		<key>birdName</key>
+		<string>Northern Mockingbird</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: A male mockingbird can learn up to 200 different songs</string>
+		<key>song</key>
+		<string>NorthernMockingbird.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>NorthernMockingbird.png</string>
+	</dict>
+	<key>Item 16</key>
+	<dict>
+		<key>birdName</key>
+		<string>Purple Martin</string>
+		<key>birdDescription</key>
+		<string>Fun Fact:  The Purple Martin is the largest swallow in North America.</string>
+		<key>song</key>
+		<string>PurpleMartin.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>PurpleMartin.png</string>
+	</dict>
+	<key>Item 17</key>
+	<dict>
+		<key>birdName</key>
+		<string>Red-tailed Hawk</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: The Red-tailed Hawk is one of the most widely distributed hawks in the Americas.</string>
+		<key>song</key>
+		<string>Red-tailedHawk.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>Red-TaiedHawk.png</string>
+	</dict>
+	<key>Item 18</key>
+	<dict>
+		<key>birdName</key>
+		<string>Red-winged Blackbird</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: Some birds may travel as far as 80 km (50 mi) between the roosting and feeding sites.</string>
+		<key>song</key>
+		<string>Red-wingedBlackbird.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>Red-WingedBlackbird.png</string>
+	</dict>
+	<key>Item 19</key>
+	<dict>
+		<key>birdName</key>
+		<string>Ruby-throated Hummingbird</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: Ruby-throated hummingbirds eat insects and nectar from many flowering plants. They are attracted to the colour red.</string>
+		<key>song</key>
+		<string>Ruby-ThroatedHummingbird.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>Ruby-throatedHummingbird.png</string>
+	</dict>
+	<key>Item 20</key>
+	<dict>
+		<key>birdName</key>
+		<string>Scissor-tailed Flycatcher</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: Group of scissor-tailed flycatchers is known as &quot;zipper&quot;, &quot;snip&quot; or &quot;pinking.”</string>
+		<key>song</key>
+		<string>Scissor-tailedFlycatcher.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>Scissor-tailedFlycatcher.png</string>
+	</dict>
+	<key>Item 21</key>
+	<dict>
+		<key>birdName</key>
+		<string>Tufted Titmouse</string>
+		<key>birdDescription</key>
+		<string>Fun Fact: There is no gender difference. Both the sexes look alike.</string>
+		<key>song</key>
+		<string>TuftedTitmouse.mp3</string>
+		<key>sighted</key>
+		<false/>
+		<key>mainPhoto</key>
+		<string>TuftedTitmouse.png</string>
+	</dict>
+</dict>
+</plist>
